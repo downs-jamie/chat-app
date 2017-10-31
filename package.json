@@ -1,0 +1,30 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "a node app using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/downs19/chat-app.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "sockets",
+    "express",
+    "intant",
+    "message"
+  ],
+  "author": "jamie downs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/downs19/chat-app/issues"
+  },
+  "homepage": "https://github.com/downs19/chat-app#readme",
+  "dependencies": {
+    "ejs": "^2.5.7"
+  }
+}
