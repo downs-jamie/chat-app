@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/downs19/chat-app#readme",
   "dependencies": {
-    "ejs": "^2.5.7"
+    "ejs": "^2.5.7",
+    "socket.io": "^2.0.4"
   }
 }
